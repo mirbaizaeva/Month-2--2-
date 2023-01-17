@@ -8,6 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		3602B38A2972B18B007D1D93 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3602B3892972B18B007D1D93 /* main.swift */; };
+		36D8C8102972BE88002C371E /* Company.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D8C80F2972BE88002C371E /* Company.swift */; };
+		36D8C8122972BEA7002C371E /* BranchUAE.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D8C8112972BEA7002C371E /* BranchUAE.swift */; };
+		36D8C8142972BEBF002C371E /* BranchRussia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D8C8132972BEBF002C371E /* BranchRussia.swift */; };
+		36D8C8162972BF1D002C371E /* StaffUAE.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D8C8152972BF1D002C371E /* StaffUAE.swift */; };
+		36D8C8182972BF2A002C371E /* StaffRussia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D8C8172972BF2A002C371E /* StaffRussia.swift */; };
+		36D8C81A29730548002C371E /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D8C81929730548002C371E /* Student.swift */; };
+		36D8C81C29730570002C371E /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D8C81B29730570002C371E /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +32,13 @@
 /* Begin PBXFileReference section */
 		3602B3862972B18B007D1D93 /* Month-2(Дз-2) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Month-2(Дз-2)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3602B3892972B18B007D1D93 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		36D8C80F2972BE88002C371E /* Company.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Company.swift; sourceTree = "<group>"; };
+		36D8C8112972BEA7002C371E /* BranchUAE.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchUAE.swift; sourceTree = "<group>"; };
+		36D8C8132972BEBF002C371E /* BranchRussia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchRussia.swift; sourceTree = "<group>"; };
+		36D8C8152972BF1D002C371E /* StaffUAE.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaffUAE.swift; sourceTree = "<group>"; };
+		36D8C8172972BF2A002C371E /* StaffRussia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaffRussia.swift; sourceTree = "<group>"; };
+		36D8C81929730548002C371E /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		36D8C81B29730570002C371E /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +72,13 @@
 			isa = PBXGroup;
 			children = (
 				3602B3892972B18B007D1D93 /* main.swift */,
+				36D8C80F2972BE88002C371E /* Company.swift */,
+				36D8C8112972BEA7002C371E /* BranchUAE.swift */,
+				36D8C8132972BEBF002C371E /* BranchRussia.swift */,
+				36D8C8152972BF1D002C371E /* StaffUAE.swift */,
+				36D8C8172972BF2A002C371E /* StaffRussia.swift */,
+				36D8C81929730548002C371E /* Student.swift */,
+				36D8C81B29730570002C371E /* User.swift */,
 			);
 			path = "Month-2(Дз-2)";
 			sourceTree = "<group>";
@@ -120,7 +141,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36D8C8122972BEA7002C371E /* BranchUAE.swift in Sources */,
+				36D8C8182972BF2A002C371E /* StaffRussia.swift in Sources */,
 				3602B38A2972B18B007D1D93 /* main.swift in Sources */,
+				36D8C8142972BEBF002C371E /* BranchRussia.swift in Sources */,
+				36D8C81C29730570002C371E /* User.swift in Sources */,
+				36D8C8102972BE88002C371E /* Company.swift in Sources */,
+				36D8C81A29730548002C371E /* Student.swift in Sources */,
+				36D8C8162972BF1D002C371E /* StaffUAE.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
